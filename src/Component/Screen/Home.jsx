@@ -2,6 +2,7 @@ import { Outlet } from "react-router-dom"
 import Navbar from "../Navbar/Navbar"
 import Sidebar from "../Sidebar/Sidebar"
 import Version from "../Sidebar/Version"
+import September2021 from "../Content/September2021"
 
 function Home() {
     return (
